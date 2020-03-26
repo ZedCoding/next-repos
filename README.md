@@ -8,7 +8,7 @@ yarn install
 
 ### 运行
 ```
-yarn dev (首先先开启redis服务)
+yarn dev (首先开启redis服务)
 ```
 
 ### 打包
